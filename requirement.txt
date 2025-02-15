@@ -1,0 +1,30 @@
+# Flask and related extensions
+flask==2.3.2
+flask-sqlalchemy==3.0.3
+flask-migrate==4.0.4
+flask-cors==4.0.0
+
+# Database drivers
+pymysql==1.0.3
+mysqlclient==2.1.1
+
+# Data processing
+pandas==2.0.1
+numpy==1.24.3
+
+# XML parsing
+lxml==4.9.2
+
+# Logging and debugging
+python-dotenv==1.0.0
+
+# Additional utilities
+requests==2.31.0
+xmltodict==0.13.0
+
+# Testing
+pytest==7.3.1
+coverage==7.2.5
+
+# Deployment
+gunicorn==20.1.0
