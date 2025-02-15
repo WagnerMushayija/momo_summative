@@ -1,0 +1,26 @@
+[
+  {
+    "datetime": "2024-05-26T02:10:27",
+    "amount": 20000.0,
+    "sender": "Momo Balance",
+    "receiver": "Me",
+    "transaction_id": "14098463509",
+    "raw_message": "You Abebe Chala CHEBUDIE (*********036) have via agent: Agent Sophia (250790777777), withdrawn 20000 RWF from your mobile money account: 36521838 at 2024-05-26 02:10:27 and you can now collect your money in cash. Your new balance: 6400 RWF. Fee paid: 350 RWF. Message from agent: 1. Financial Transaction Id: 14098463509."
+  },
+  {
+    "datetime": "2024-11-23T13:23:44",
+    "amount": 50000.0,
+    "sender": "Momo Balance",
+    "receiver": "Me",
+    "transaction_id": "17006777609",
+    "raw_message": "You Abebe Chala CHEBUDIE (*********036) have via agent: Agent Sophia (250788999999), withdrawn 50000 RWF from your mobile money account: 36521838 at 2024-11-23 13:23:44 and you can now collect your money in cash. Your new balance: 2401 RWF. Fee paid: 1100 RWF. Message from agent: 1. Financial Transaction Id: 17006777609."
+  },
+  {
+    "datetime": "2024-11-23T14:09:27",
+    "amount": 24000.0,
+    "sender": "Momo Balance",
+    "receiver": "Me",
+    "transaction_id": "17007580507",
+    "raw_message": "You Abebe Chala CHEBUDIE (*********036) have via agent: Agent John (250788999999), withdrawn 24000 RWF from your mobile money account: 36521838 at 2024-11-23 14:09:27 and you can now collect your money in cash. Your new balance: 61892 RWF. Fee paid: 600 RWF. Message from agent: 1. Financial Transaction Id: 17007580507."
+  }
+]

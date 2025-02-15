@@ -1,0 +1,1986 @@
+[
+  {
+    "datetime": "2024-05-11T18:43:49",
+    "amount": 40000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 40000 RWF has been added to your mobile money account at 2024-05-11 18:43:49. Your NEW BALANCE :40400 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-14T09:10:29",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-14 09:10:29. Your NEW BALANCE :5980 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-14T19:06:03",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-14 19:06:03. Your NEW BALANCE :5960 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-15T09:13:09",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-15 09:13:09. Your NEW BALANCE :5460 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-15T23:17:44",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-15 23:17:44. Your NEW BALANCE :5340 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-15T23:20:36",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-15 23:20:36. Your NEW BALANCE :10340 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-18T08:11:36",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-18 08:11:36. Your NEW BALANCE :5690 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-18T08:48:00",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-18 08:48:00. Your NEW BALANCE :9190 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-20T17:45:23",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-20 17:45:23. Your NEW BALANCE :5970 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-21T18:15:06",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-21 18:15:06. Your NEW BALANCE :6550 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-22T13:44:11",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-22 13:44:11. Your NEW BALANCE :6450 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-24T11:43:17",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-24 11:43:17. Your NEW BALANCE :6150 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-24T23:04:07",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-24 23:04:07. Your NEW BALANCE :5050 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-25T11:18:40",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-25 11:18:40. Your NEW BALANCE :6050 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-25T17:18:07",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-25 17:18:07. Your NEW BALANCE :9050 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-25T17:19:48",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-25 17:19:48. Your NEW BALANCE :14050 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-26T02:06:45",
+    "amount": 25000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 25000 RWF has been added to your mobile money account at 2024-05-26 02:06:45. Your NEW BALANCE :26750 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-26T14:49:08",
+    "amount": 25000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 25000 RWF has been added to your mobile money account at 2024-05-26 14:49:08. Your NEW BALANCE :25800 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-26T15:44:53",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-05-26 15:44:53. Your NEW BALANCE :10550 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-26T17:18:51",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-05-26 17:18:51. Your NEW BALANCE :10450 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-27T07:57:08",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-27 07:57:08. Your NEW BALANCE :5450 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-28T07:21:39",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-05-28 07:21:39. Your NEW BALANCE :30150 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-29T17:18:18",
+    "amount": 15000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 15000 RWF has been added to your mobile money account at 2024-05-29 17:18:18. Your NEW BALANCE :16600 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-30T12:13:58",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-30 12:13:58. Your NEW BALANCE :5400 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-05-31T09:39:09",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-05-31 09:39:09. Your NEW BALANCE :5700 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-01T01:28:58",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-01 01:28:58. Your NEW BALANCE :6480 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-01T11:28:55",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-01 11:28:55. Your NEW BALANCE :9880 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-01T19:46:10",
+    "amount": 15000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 15000 RWF has been added to your mobile money account at 2024-06-01 19:46:10. Your NEW BALANCE :15730 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-02T20:56:47",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-02 20:56:47. Your NEW BALANCE :5130 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-03T13:08:48",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-03 13:08:48. Your NEW BALANCE :6530 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-03T15:32:37",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-03 15:32:37. Your NEW BALANCE :6430 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-03T18:56:18",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-03 18:56:18. Your NEW BALANCE :8230 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-04T13:51:52",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-04 13:51:52. Your NEW BALANCE :5630 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-05T09:49:25",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-06-05 09:49:25. Your NEW BALANCE :10030 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-05T17:19:19",
+    "amount": 21000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 21000 RWF has been added to your mobile money account at 2024-06-05 17:19:19. Your NEW BALANCE :25330 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-05T18:03:43",
+    "amount": 200000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 200000 RWF has been added to your mobile money account at 2024-06-05 18:03:43. Your NEW BALANCE :200830 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-05T18:07:08",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-05 18:07:08. Your NEW BALANCE :205830 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-06T08:18:21",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-06 08:18:21. Your NEW BALANCE :6630 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-06T17:56:07",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-06 17:56:07. Your NEW BALANCE :5230 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-07T07:52:17",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-07 07:52:17. Your NEW BALANCE :5830 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-11T07:51:04",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-11 07:51:04. Your NEW BALANCE :5350 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-11T16:57:52",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-11 16:57:52. Your NEW BALANCE :5110 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-12T13:04:27",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-12 13:04:27. Your NEW BALANCE :6210 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-12T17:03:05",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-12 17:03:05. Your NEW BALANCE :6110 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-12T17:42:10",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-06-12 17:42:10. Your NEW BALANCE :13110 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-13T13:35:40",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-13 13:35:40. Your NEW BALANCE :5150 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-13T18:24:09",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-06-13 18:24:09. Your NEW BALANCE :11850 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-14T07:49:33",
+    "amount": 25000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 25000 RWF has been added to your mobile money account at 2024-06-14 07:49:33. Your NEW BALANCE :29750 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-14T13:06:59",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-14 13:06:59. Your NEW BALANCE :5950 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-14T13:56:53",
+    "amount": 15000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 15000 RWF has been added to your mobile money account at 2024-06-14 13:56:53. Your NEW BALANCE :16950 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-14T21:54:38",
+    "amount": 8000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 8000 RWF has been added to your mobile money account at 2024-06-14 21:54:38. Your NEW BALANCE :8330 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-15T14:00:04",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-06-15 14:00:04. Your NEW BALANCE :51030 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-16T13:20:31",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-06-16 13:20:31. Your NEW BALANCE :21570 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-17T15:01:29",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-06-17 15:01:29. Your NEW BALANCE :20130 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-17T16:26:27",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-06-17 16:26:27. Your NEW BALANCE :52880 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-17T19:50:19",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-06-17 19:50:19. Your NEW BALANCE :29410 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-19T22:16:00",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-06-19 22:16:00. Your NEW BALANCE :17510 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-21T17:39:32",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-06-21 17:39:32. Your NEW BALANCE :10640 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-22T10:10:55",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-22 10:10:55. Your NEW BALANCE :6240 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-22T10:48:17",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-06-22 10:48:17. Your NEW BALANCE :14940 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-22T18:15:11",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-06-22 18:15:11. Your NEW BALANCE :26220 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-23T16:45:45",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-06-23 16:45:45. Your NEW BALANCE :20020 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-24T14:51:47",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-24 14:51:47. Your NEW BALANCE :5420 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-24T18:15:17",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-24 18:15:17. Your NEW BALANCE :5800 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-24T21:04:26",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-24 21:04:26. Your NEW BALANCE :5580 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-25T13:32:23",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-06-25 13:32:23. Your NEW BALANCE :20760 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-25T22:10:11",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-06-25 22:10:11. Your NEW BALANCE :34960 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-26T12:55:03",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-26 12:55:03. Your NEW BALANCE :10360 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-26T13:48:25",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-26 13:48:25. Your NEW BALANCE :5260 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-26T18:38:44",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-06-26 18:38:44. Your NEW BALANCE :30160 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-26T21:08:02",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-26 21:08:02. Your NEW BALANCE :5290 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-27T12:42:04",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-27 12:42:04. Your NEW BALANCE :6990 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-27T19:36:13",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-06-27 19:36:13. Your NEW BALANCE :11170 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-27T19:38:09",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-27 19:38:09. Your NEW BALANCE :16170 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-28T13:53:56",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-06-28 13:53:56. Your NEW BALANCE :7920 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-28T17:19:26",
+    "amount": 40000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 40000 RWF has been added to your mobile money account at 2024-06-28 17:19:26. Your NEW BALANCE :44420 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-28T17:20:55",
+    "amount": 40000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 40000 RWF has been added to your mobile money account at 2024-06-28 17:20:55. Your NEW BALANCE :84420 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-28T23:16:51",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-06-28 23:16:51. Your NEW BALANCE :40170 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-29T00:29:42",
+    "amount": 40000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 40000 RWF has been added to your mobile money account at 2024-06-29 00:29:42. Your NEW BALANCE :41670 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-29T01:13:24",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-06-29 01:13:24. Your NEW BALANCE :55170 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-29T13:16:37",
+    "amount": 100000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 100000 RWF has been added to your mobile money account at 2024-06-29 13:16:37. Your NEW BALANCE :103920 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-29T20:13:54",
+    "amount": 100000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 100000 RWF has been added to your mobile money account at 2024-06-29 20:13:54. Your NEW BALANCE :113350 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-30T20:36:22",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-06-30 20:36:22. Your NEW BALANCE :30490 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-06-30T22:09:01",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-06-30 22:09:01. Your NEW BALANCE :46390 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-01T18:15:19",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-07-01 18:15:19. Your NEW BALANCE :61070 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-02T11:14:05",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-07-02 11:14:05. Your NEW BALANCE :57120 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-03T09:54:59",
+    "amount": 40000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 40000 RWF has been added to your mobile money account at 2024-07-03 09:54:59. Your NEW BALANCE :49870 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-03T17:53:48",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-07-03 17:53:48. Your NEW BALANCE :30070 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-04T14:04:30",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-07-04 14:04:30. Your NEW BALANCE :50220 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-05T09:40:39",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-07-05 09:40:39. Your NEW BALANCE :20470 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-05T19:21:46",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-07-05 19:21:46. Your NEW BALANCE :50320 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-06T15:48:36",
+    "amount": 40000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 40000 RWF has been added to your mobile money account at 2024-07-06 15:48:36. Your NEW BALANCE :54950 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-07T15:20:52",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-07-07 15:20:52. Your NEW BALANCE :17060 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-07T18:03:43",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-07-07 18:03:43. Your NEW BALANCE :19060 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-08T16:56:13",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-07-08 16:56:13. Your NEW BALANCE :52540 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-09T18:34:23",
+    "amount": 45000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 45000 RWF has been added to your mobile money account at 2024-07-09 18:34:23. Your NEW BALANCE :49270 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-11T09:30:51",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-07-11 09:30:51. Your NEW BALANCE :20340 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-14T14:35:37",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-07-14 14:35:37. Your NEW BALANCE :50040 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-14T22:55:49",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-07-14 22:55:49. Your NEW BALANCE :55110 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-15T01:02:10",
+    "amount": 9000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 9000 RWF has been added to your mobile money account at 2024-07-15 01:02:10. Your NEW BALANCE :9110 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-15T14:34:58",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-07-15 14:34:58. Your NEW BALANCE :24010 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-16T19:50:17",
+    "amount": 60000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 60000 RWF has been added to your mobile money account at 2024-07-16 19:50:17. Your NEW BALANCE :70390 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-17T18:11:34",
+    "amount": 40000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 40000 RWF has been added to your mobile money account at 2024-07-17 18:11:34. Your NEW BALANCE :42190 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-19T12:47:34",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-07-19 12:47:34. Your NEW BALANCE :13420 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-19T20:58:18",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-07-19 20:58:18. Your NEW BALANCE :28420 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-20T21:06:20",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-07-20 21:06:20. Your NEW BALANCE :21260 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-20T21:48:47",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-07-20 21:48:47. Your NEW BALANCE :20110 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-22T11:00:48",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-07-22 11:00:48. Your NEW BALANCE :20060 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-23T13:52:55",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-07-23 13:52:55. Your NEW BALANCE :12660 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-23T21:28:32",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-07-23 21:28:32. Your NEW BALANCE :10040 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-24T13:06:48",
+    "amount": 7800.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 7800 RWF has been added to your mobile money account at 2024-07-24 13:06:48. Your NEW BALANCE :9240 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-24T19:22:30",
+    "amount": 9000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 9000 RWF has been added to your mobile money account at 2024-07-24 19:22:30. Your NEW BALANCE :9240 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-24T19:50:23",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-07-24 19:50:23. Your NEW BALANCE :52640 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-26T00:13:12",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-07-26 00:13:12. Your NEW BALANCE :22000 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-26T12:36:17",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-07-26 12:36:17. Your NEW BALANCE :35000 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-26T13:54:06",
+    "amount": 675000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 675000 RWF has been added to your mobile money account at 2024-07-26 13:54:06. Your NEW BALANCE :675950 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-26T15:11:45",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-07-26 15:11:45. Your NEW BALANCE :685950 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-26T15:20:20",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-07-26 15:20:20. Your NEW BALANCE :54950 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-26T15:27:48",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-07-26 15:27:48. Your NEW BALANCE :58750 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-26T16:10:40",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-07-26 16:10:40. Your NEW BALANCE :17550 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-26T19:34:27",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-07-26 19:34:27. Your NEW BALANCE :56730 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-07-28T18:14:17",
+    "amount": 100000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 100000 RWF has been added to your mobile money account at 2024-07-28 18:14:17. Your NEW BALANCE :109560 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-01T19:06:21",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-08-01 19:06:21. Your NEW BALANCE :50210 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-02T12:46:11",
+    "amount": 66000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 66000 RWF has been added to your mobile money account at 2024-08-02 12:46:11. Your NEW BALANCE :112790 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-03T23:27:49",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-08-03 23:27:49. Your NEW BALANCE :53340 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-04T21:44:14",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-08-04 21:44:14. Your NEW BALANCE :23240 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-05T17:18:05",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-08-05 17:18:05. Your NEW BALANCE :10090 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-06T20:23:38",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-08-06 20:23:38. Your NEW BALANCE :20290 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-07T12:49:27",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-08-07 12:49:27. Your NEW BALANCE :53090 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-07T18:01:41",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-08-07 18:01:41. Your NEW BALANCE :54390 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-10T18:03:09",
+    "amount": 100000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 100000 RWF has been added to your mobile money account at 2024-08-10 18:03:09. Your NEW BALANCE :101050 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-25T15:27:42",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-08-25 15:27:42. Your NEW BALANCE :55600 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-26T18:24:15",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-08-26 18:24:15. Your NEW BALANCE :73630 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-28T11:51:44",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-08-28 11:51:44. Your NEW BALANCE :43210 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-08-30T12:12:37",
+    "amount": 100000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 100000 RWF has been added to your mobile money account at 2024-08-30 12:12:37. Your NEW BALANCE :100960 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-01T17:49:16",
+    "amount": 40000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 40000 RWF has been added to your mobile money account at 2024-09-01 17:49:16. Your NEW BALANCE :51870 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-02T13:53:33",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-02 13:53:33. Your NEW BALANCE :50870 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-03T21:02:44",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-03 21:02:44. Your NEW BALANCE :51590 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-06T18:54:13",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-09-06 18:54:13. Your NEW BALANCE :20890 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-10T00:14:17",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-10 00:14:17. Your NEW BALANCE :53870 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-10T18:17:00",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-10 18:17:00. Your NEW BALANCE :58280 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-12T17:15:57",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-12 17:15:57. Your NEW BALANCE :54210 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-13T13:22:34",
+    "amount": 345000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 345000 RWF has been added to your mobile money account at 2024-09-13 13:22:34. Your NEW BALANCE :376260 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-13T16:29:38",
+    "amount": 600000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 600000 RWF has been added to your mobile money account at 2024-09-13 16:29:38. Your NEW BALANCE :625160 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-14T11:57:49",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-14 11:57:49. Your NEW BALANCE :50800 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-14T18:04:48",
+    "amount": 100000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 100000 RWF has been added to your mobile money account at 2024-09-14 18:04:48. Your NEW BALANCE :102250 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-16T17:58:53",
+    "amount": 12000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 12000 RWF has been added to your mobile money account at 2024-09-16 17:58:53. Your NEW BALANCE :12000 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-17T13:41:10",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-17 13:41:10. Your NEW BALANCE :50000 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-18T22:39:11",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-09-18 22:39:11. Your NEW BALANCE :23150 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-19T15:26:11",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-19 15:26:11. Your NEW BALANCE :52930 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-20T18:27:28",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-20 18:27:28. Your NEW BALANCE :50030 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-22T13:38:06",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-22 13:38:06. Your NEW BALANCE :65600 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-23T13:32:08",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-09-23 13:32:08. Your NEW BALANCE :10450 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-23T20:15:39",
+    "amount": 15000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 15000 RWF has been added to your mobile money account at 2024-09-23 20:15:39. Your NEW BALANCE :15550 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-23T23:29:23",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-23 23:29:23. Your NEW BALANCE :50300 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-24T10:41:07",
+    "amount": 1050000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 1050000 RWF has been added to your mobile money account at 2024-09-24 10:41:07. Your NEW BALANCE :1064480 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-24T20:54:01",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-09-24 20:54:01. Your NEW BALANCE :21180 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-26T14:56:09",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-26 14:56:09. Your NEW BALANCE :50130 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-26T19:44:05",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-09-26 19:44:05. Your NEW BALANCE :49360 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-27T22:34:11",
+    "amount": 60000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 60000 RWF has been added to your mobile money account at 2024-09-27 22:34:11. Your NEW BALANCE :61560 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-28T22:54:03",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-09-28 22:54:03. Your NEW BALANCE :56210 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-29T17:59:36",
+    "amount": 210000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 210000 RWF has been added to your mobile money account at 2024-09-29 17:59:36. Your NEW BALANCE :238110 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-30T07:29:05",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-09-30 07:29:05. Your NEW BALANCE :35260 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-09-30T09:43:51",
+    "amount": 150000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 150000 RWF has been added to your mobile money account at 2024-09-30 09:43:51. Your NEW BALANCE :173160 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-01T17:25:13",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-10-01 17:25:13. Your NEW BALANCE :69610 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-03T16:49:22",
+    "amount": 9000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 9000 RWF has been added to your mobile money account at 2024-10-03 16:49:22. Your NEW BALANCE :9012 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-03T17:48:41",
+    "amount": 25000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 25000 RWF has been added to your mobile money account at 2024-10-03 17:48:41. Your NEW BALANCE :29012 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-03T19:57:12",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-10-03 19:57:12. Your NEW BALANCE :24012 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-03T20:53:27",
+    "amount": 80000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 80000 RWF has been added to your mobile money account at 2024-10-03 20:53:27. Your NEW BALANCE :88762 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-04T19:44:54",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-10-04 19:44:54. Your NEW BALANCE :20012 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-04T23:19:28",
+    "amount": 25000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 25000 RWF has been added to your mobile money account at 2024-10-04 23:19:28. Your NEW BALANCE :33312 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-05T17:07:22",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-10-05 17:07:22. Your NEW BALANCE :51962 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-06T22:40:56",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-10-06 22:40:56. Your NEW BALANCE :33412 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-07T13:24:46",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-10-07 13:24:46. Your NEW BALANCE :10812 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-07T22:06:34",
+    "amount": 3000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 3000 RWF has been added to your mobile money account at 2024-10-07 22:06:34. Your NEW BALANCE :10812 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-08T18:07:17",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-10-08 18:07:17. Your NEW BALANCE :51812 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-08T18:25:30",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-10-08 18:25:30. Your NEW BALANCE :15212 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-08T20:47:51",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-10-08 20:47:51. Your NEW BALANCE :12962 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-09T22:23:10",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-10-09 22:23:10. Your NEW BALANCE :32962 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-12T14:35:35",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-10-12 14:35:35. Your NEW BALANCE :10405 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-12T15:35:48",
+    "amount": 6000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 6000 RWF has been added to your mobile money account at 2024-10-12 15:35:48. Your NEW BALANCE :6705 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-12T17:49:54",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-10-12 17:49:54. Your NEW BALANCE :52605 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-14T11:32:40",
+    "amount": 60000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 60000 RWF has been added to your mobile money account at 2024-10-14 11:32:40. Your NEW BALANCE :62605 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-18T19:49:31",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-10-18 19:49:31. Your NEW BALANCE :53750 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-28T22:43:43",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-10-28 22:43:43. Your NEW BALANCE :57782 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-29T23:53:56",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-10-29 23:53:56. Your NEW BALANCE :25012 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-30T23:43:05",
+    "amount": 45000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 45000 RWF has been added to your mobile money account at 2024-10-30 23:43:05. Your NEW BALANCE :45612 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-31T18:20:46",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-10-31 18:20:46. Your NEW BALANCE :12842 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-31T21:22:04",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-10-31 21:22:04. Your NEW BALANCE :56142 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-01T14:04:17",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-11-01 14:04:17. Your NEW BALANCE :22022 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-01T22:58:52",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-11-01 22:58:52. Your NEW BALANCE :56822 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-02T14:06:14",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-11-02 14:06:14. Your NEW BALANCE :23472 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-03T14:52:24",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-11-03 14:52:24. Your NEW BALANCE :28332 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-03T21:31:04",
+    "amount": 340000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 340000 RWF has been added to your mobile money account at 2024-11-03 21:31:04. Your NEW BALANCE :352312 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-04T10:04:06",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-11-04 10:04:06. Your NEW BALANCE :21312 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-04T17:20:53",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-11-04 17:20:53. Your NEW BALANCE :58212 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-04T19:10:34",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-11-04 19:10:34. Your NEW BALANCE :37962 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-08T10:00:21",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-11-08 10:00:21. Your NEW BALANCE :60947 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-08T21:20:45",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-11-08 21:20:45. Your NEW BALANCE :53497 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-09T13:39:10",
+    "amount": 4000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 4000 RWF has been added to your mobile money account at 2024-11-09 13:39:10. Your NEW BALANCE :5137 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-11T18:50:10",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-11-11 18:50:10. Your NEW BALANCE :30622 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-11T19:50:12",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-11-11 19:50:12. Your NEW BALANCE :9222 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-11T20:40:53",
+    "amount": 5000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 5000 RWF has been added to your mobile money account at 2024-11-11 20:40:53. Your NEW BALANCE :6122 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-11T23:18:19",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-11-11 23:18:19. Your NEW BALANCE :50022 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-12T21:43:24",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-11-12 21:43:24. Your NEW BALANCE :11022 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-12T23:45:17",
+    "amount": 25000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 25000 RWF has been added to your mobile money account at 2024-11-12 23:45:17. Your NEW BALANCE :33022 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-16T13:13:48",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-11-16 13:13:48. Your NEW BALANCE :20202 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-22T15:00:13",
+    "amount": 200000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 200000 RWF has been added to your mobile money account at 2024-11-22 15:00:13. Your NEW BALANCE :200185 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-24T12:20:25",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-11-24 12:20:25. Your NEW BALANCE :66922 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-25T15:32:28",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-11-25 15:32:28. Your NEW BALANCE :15822 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-26T11:32:50",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-11-26 11:32:50. Your NEW BALANCE :51422 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-26T22:45:43",
+    "amount": 250000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 250000 RWF has been added to your mobile money account at 2024-11-26 22:45:43. Your NEW BALANCE :265552 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-28T14:41:07",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-11-28 14:41:07. Your NEW BALANCE :55452 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-29T01:09:21",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-11-29 01:09:21. Your NEW BALANCE :39582 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-29T23:13:36",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-11-29 23:13:36. Your NEW BALANCE :51712 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-30T14:22:02",
+    "amount": 100000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 100000 RWF has been added to your mobile money account at 2024-11-30 14:22:02. Your NEW BALANCE :110992 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-11-30T16:34:05",
+    "amount": 200000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 200000 RWF has been added to your mobile money account at 2024-11-30 16:34:05. Your NEW BALANCE :279492 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-03T21:03:18",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-12-03 21:03:18. Your NEW BALANCE :51424 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-05T17:59:53",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-12-05 17:59:53. Your NEW BALANCE :30624 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-07T12:56:26",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-12-07 12:56:26. Your NEW BALANCE :59124 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-08T19:25:23",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-12-08 19:25:23. Your NEW BALANCE :50792 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-09T23:43:35",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-12-09 23:43:35. Your NEW BALANCE :22242 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-10T13:34:34",
+    "amount": 8000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 8000 RWF has been added to your mobile money account at 2024-12-10 13:34:34. Your NEW BALANCE :8742 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-11T13:33:37",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-12-11 13:33:37. Your NEW BALANCE :10142 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-11T14:58:07",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-12-11 14:58:07. Your NEW BALANCE :13042 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-11T17:29:34",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-12-11 17:29:34. Your NEW BALANCE :52942 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-12T11:10:37",
+    "amount": 200000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 200000 RWF has been added to your mobile money account at 2024-12-12 11:10:37. Your NEW BALANCE :240642 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-13T13:00:38",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-12-13 13:00:38. Your NEW BALANCE :85142 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-16T10:53:25",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-12-16 10:53:25. Your NEW BALANCE :30191 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-20T11:50:28",
+    "amount": 20000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 20000 RWF has been added to your mobile money account at 2024-12-20 11:50:28. Your NEW BALANCE :21992 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-21T12:01:26",
+    "amount": 15000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 15000 RWF has been added to your mobile money account at 2024-12-21 12:01:26. Your NEW BALANCE :16642 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-22T11:46:11",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-12-22 11:46:11. Your NEW BALANCE :52742 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-22T20:25:57",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-12-22 20:25:57. Your NEW BALANCE :13832 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-22T21:49:11",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2024-12-22 21:49:11. Your NEW BALANCE :13732 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-23T00:41:47",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-12-23 00:41:47. Your NEW BALANCE :51132 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-23T03:16:04",
+    "amount": 40000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 40000 RWF has been added to your mobile money account at 2024-12-23 03:16:04. Your NEW BALANCE :48282 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-23T18:09:17",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-12-23 18:09:17. Your NEW BALANCE :58032 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-23T21:49:24",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-12-23 21:49:24. Your NEW BALANCE :72532 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-27T19:24:26",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-12-27 19:24:26. Your NEW BALANCE :78434 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-28T21:22:51",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2024-12-28 21:22:51. Your NEW BALANCE :35864 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-29T14:01:49",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-12-29 14:01:49. Your NEW BALANCE :66864 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-12-30T00:52:09",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2024-12-30 00:52:09. Your NEW BALANCE :58364 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2025-01-02T19:39:49",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2025-01-02 19:39:49. Your NEW BALANCE :15672 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2025-01-02T23:14:15",
+    "amount": 10000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 10000 RWF has been added to your mobile money account at 2025-01-02 23:14:15. Your NEW BALANCE :11922 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2025-01-03T20:40:07",
+    "amount": 40000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 40000 RWF has been added to your mobile money account at 2025-01-03 20:40:07. Your NEW BALANCE :46222 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2025-01-06T18:49:15",
+    "amount": 30000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 30000 RWF has been added to your mobile money account at 2025-01-06 18:49:15. Your NEW BALANCE :30737 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2025-01-08T22:10:26",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2025-01-08 22:10:26. Your NEW BALANCE :52899 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2025-01-12T18:29:25",
+    "amount": 50000.0,
+    "sender": "BANK",
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*113*R*A bank deposit of 50000 RWF has been added to your mobile money account at 2025-01-12 18:29:25. Your NEW BALANCE :67873 RWF. Cash Deposit::CASH::::0::250795963036.Thank you for using MTN MobileMoney.*EN#"
+  }
+]

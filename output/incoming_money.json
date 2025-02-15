@@ -1,0 +1,514 @@
+[
+  {
+    "datetime": "2024-05-10T16:30:51",
+    "amount": 2000.0,
+    "sender": "Jane Smith",
+    "receiver": "Momo Balance",
+    "transaction_id": "76662021700",
+    "raw_message": "You have received 2000 RWF from Jane Smith (*********013) on your mobile money account at 2024-05-10 16:30:51. Message from sender: . Your new balance:2000 RWF. Financial Transaction Id: 76662021700."
+  },
+  {
+    "datetime": "2024-05-14T20:57:36",
+    "amount": 25000.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "43668074924",
+    "raw_message": "You have received 25000 RWF from Samuel Carter (*********013) on your mobile money account at 2024-05-14 20:57:36. Message from sender: . Your new balance:29060 RWF. Financial Transaction Id: 43668074924."
+  },
+  {
+    "datetime": "2024-05-19T01:49:09",
+    "amount": 1400.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "45738348638",
+    "raw_message": "You have received 1400 RWF from Linda Green (*********704) on your mobile money account at 2024-05-19 01:49:09. Message from sender: . Your new balance:4590 RWF. Financial Transaction Id: 45738348638."
+  },
+  {
+    "datetime": "2024-05-29T14:00:51",
+    "amount": 200.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "90281203550",
+    "raw_message": "You have received 200 RWF from Linda Green (*********691) on your mobile money account at 2024-05-29 14:00:51. Message from sender: . Your new balance:1600 RWF. Financial Transaction Id: 90281203550."
+  },
+  {
+    "datetime": "2024-06-07T16:08:33",
+    "amount": 12000.0,
+    "sender": "Alex Doe",
+    "receiver": "Momo Balance",
+    "transaction_id": "41002852845",
+    "raw_message": "You have received 12000 RWF from Alex Doe (*********612) on your mobile money account at 2024-06-07 16:08:33. Message from sender: . Your new balance:17310 RWF. Financial Transaction Id: 41002852845."
+  },
+  {
+    "datetime": "2024-06-18T14:08:05",
+    "amount": 5000.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "43960900475",
+    "raw_message": "You have received 5000 RWF from Linda Green (*********806) on your mobile money account at 2024-06-18 14:08:05. Message from sender: . Your new balance:14110 RWF. Financial Transaction Id: 43960900475."
+  },
+  {
+    "datetime": "2024-06-19T20:26:00",
+    "amount": 3700.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "63115508240",
+    "raw_message": "You have received 3700 RWF from Samuel Carter (*********090) on your mobile money account at 2024-06-19 20:26:00. Message from sender: . Your new balance:7510 RWF. Financial Transaction Id: 63115508240."
+  },
+  {
+    "datetime": "2024-06-21T13:44:47",
+    "amount": 1500.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "90311838363",
+    "raw_message": "You have received 1500 RWF from Samuel Carter (*********612) on your mobile money account at 2024-06-21 13:44:47. Message from sender: . Your new balance:4140 RWF. Financial Transaction Id: 90311838363."
+  },
+  {
+    "datetime": "2024-06-23T12:15:45",
+    "amount": 1500.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "72288050689",
+    "raw_message": "You have received 1500 RWF from Samuel Carter (*********711) on your mobile money account at 2024-06-23 12:15:45. Message from sender: . Your new balance:15620 RWF. Financial Transaction Id: 72288050689."
+  },
+  {
+    "datetime": "2024-06-30T19:15:29",
+    "amount": 1000.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "65226318623",
+    "raw_message": "You have received 1000 RWF from Samuel Carter (*********711) on your mobile money account at 2024-06-30 19:15:29. Message from sender: . Your new balance:4590 RWF. Financial Transaction Id: 65226318623."
+  },
+  {
+    "datetime": "2024-07-10T23:47:08",
+    "amount": 170.0,
+    "sender": "Jane Smith",
+    "receiver": "Momo Balance",
+    "transaction_id": "12528494674",
+    "raw_message": "You have received 170 RWF from Jane Smith (*********711) on your mobile money account at 2024-07-10 23:47:08. Message from sender: . Your new balance:840 RWF. Financial Transaction Id: 12528494674."
+  },
+  {
+    "datetime": "2024-07-20T21:20:40",
+    "amount": 300.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "21296060708",
+    "raw_message": "You have received 300 RWF from Linda Green (*********711) on your mobile money account at 2024-07-20 21:20:40. Message from sender: . Your new balance:3210 RWF. Financial Transaction Id: 21296060708."
+  },
+  {
+    "datetime": "2024-09-01T19:32:19",
+    "amount": 4000.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "65203206628",
+    "raw_message": "You have received 4000 RWF from Samuel Carter (*********055) on your mobile money account at 2024-09-01 19:32:19. Message from sender: . Your new balance:13370 RWF. Financial Transaction Id: 65203206628."
+  },
+  {
+    "datetime": "2024-09-06T19:06:17",
+    "amount": 200000.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "67974931091",
+    "raw_message": "You have received 200000 RWF from Samuel Carter (*********726) on your mobile money account at 2024-09-06 19:06:17. Message from sender: . Your new balance:216090 RWF. Financial Transaction Id: 67974931091."
+  },
+  {
+    "datetime": "2024-09-06T21:11:07",
+    "amount": 50.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "14513684578",
+    "raw_message": "You have received 50 RWF from Robert Brown (*********711) on your mobile money account at 2024-09-06 21:11:07. Message from sender: . Your new balance:193040 RWF. Financial Transaction Id: 14513684578."
+  },
+  {
+    "datetime": "2024-09-13T22:55:34",
+    "amount": 1300.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "11967814854",
+    "raw_message": "You have received 1300 RWF from Robert Brown (*********711) on your mobile money account at 2024-09-13 22:55:34. Message from sender: . Your new balance:6340 RWF. Financial Transaction Id: 11967814854."
+  },
+  {
+    "datetime": "2024-09-19T21:17:46",
+    "amount": 5000.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "93881514225",
+    "raw_message": "You have received 5000 RWF from Linda Green (*********711) on your mobile money account at 2024-09-19 21:17:46. Message from sender: . Your new balance:42530 RWF. Financial Transaction Id: 93881514225."
+  },
+  {
+    "datetime": "2024-09-22T15:45:32",
+    "amount": 15000.0,
+    "sender": "Jane Smith",
+    "receiver": "Momo Balance",
+    "transaction_id": "35450739966",
+    "raw_message": "You have received 15000 RWF from Jane Smith (*********711) on your mobile money account at 2024-09-22 15:45:32. Message from sender: . Your new balance:32850 RWF. Financial Transaction Id: 35450739966."
+  },
+  {
+    "datetime": "2024-09-25T01:23:04",
+    "amount": 10000.0,
+    "sender": "Jane Smith",
+    "receiver": "Momo Balance",
+    "transaction_id": "75401767322",
+    "raw_message": "You have received 10000 RWF from Jane Smith (*********696) on your mobile money account at 2024-09-25 01:23:04. Message from sender: . Your new balance:24080 RWF. Financial Transaction Id: 75401767322."
+  },
+  {
+    "datetime": "2024-10-02T15:35:42",
+    "amount": 93252.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "10730013424",
+    "raw_message": "You have received 93252 RWF from Linda Green (*********683) on your mobile money account at 2024-10-02 15:35:42. Message from sender: . Your new balance:109362 RWF. Financial Transaction Id: 10730013424."
+  },
+  {
+    "datetime": "2024-10-02T23:10:50",
+    "amount": 82000.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "22096990635",
+    "raw_message": "You have received 82000 RWF from Robert Brown (*********202) on your mobile money account at 2024-10-02 23:10:50. Message from sender: . Your new balance:140612 RWF. Financial Transaction Id: 22096990635."
+  },
+  {
+    "datetime": "2024-10-07T14:37:00",
+    "amount": 3000.0,
+    "sender": null,
+    "receiver": "Momo Balance",
+    "transaction_id": null,
+    "raw_message": "*143*S*Your transaction to Mediatrice UWAYISENGA (250788658286) with 3000 RWF has been reversed at 2024-10-07 14:37:00. Your new balance is 10312 RWF. .Thank you for using MTN MobileMoney.*EN#"
+  },
+  {
+    "datetime": "2024-10-10T16:50:02",
+    "amount": 132443.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "60978680783",
+    "raw_message": "You have received 132443 RWF from Linda Green (*********973) on your mobile money account at 2024-10-10 16:50:02. Message from sender: Wakuma Tekalign Debela. Your new balance:148205 RWF. Financial Transaction Id: 60978680783."
+  },
+  {
+    "datetime": "2024-10-16T10:00:05",
+    "amount": 132996.0,
+    "sender": "Jane Smith",
+    "receiver": "Momo Balance",
+    "transaction_id": "66464178798",
+    "raw_message": "You have received 132996 RWF from Jane Smith (*********973) on your mobile money account at 2024-10-16 10:00:05. Message from sender: Wakuma Tekalign Debela. Your new balance:133151 RWF. Financial Transaction Id: 66464178798."
+  },
+  {
+    "datetime": "2024-10-18T23:00:18",
+    "amount": 20000.0,
+    "sender": "Alex Doe",
+    "receiver": "Momo Balance",
+    "transaction_id": "29637659542",
+    "raw_message": "You have received 20000 RWF from Alex Doe (*********721) on your mobile money account at 2024-10-18 23:00:18. Message from sender: fund-transfer to  250795963036. Your new balance:26250 RWF. Financial Transaction Id: 29637659542."
+  },
+  {
+    "datetime": "2024-10-20T18:56:20",
+    "amount": 133072.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "50533019574",
+    "raw_message": "You have received 133072 RWF from Linda Green (*********973) on your mobile money account at 2024-10-20 18:56:20. Message from sender: Wakuma Tekalign Debela. Your new balance:133072 RWF. Financial Transaction Id: 50533019574."
+  },
+  {
+    "datetime": "2024-10-23T09:59:01",
+    "amount": 50000.0,
+    "sender": "Jane Smith",
+    "receiver": "Momo Balance",
+    "transaction_id": "80264064542",
+    "raw_message": "You have received 50000 RWF from Jane Smith (250795963036) on your mobile money account at 2024-10-23 09:59:01. Message from sender: . Your new balance:81022 RWF. Financial Transaction Id: 80264064542."
+  },
+  {
+    "datetime": "2024-10-23T16:43:03",
+    "amount": 50000.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "27880925520",
+    "raw_message": "You have received 50000 RWF from Robert Brown (250795963036) on your mobile money account at 2024-10-23 16:43:03. Message from sender: . Your new balance:55672 RWF. Financial Transaction Id: 27880925520."
+  },
+  {
+    "datetime": "2024-10-25T00:33:00",
+    "amount": 20000.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "10412500030",
+    "raw_message": "You have received 20000 RWF from Robert Brown (250795963036) on your mobile money account at 2024-10-25 00:33:00. Message from sender: . Your new balance:21382 RWF. Financial Transaction Id: 10412500030."
+  },
+  {
+    "datetime": "2024-10-25T05:48:00",
+    "amount": 20000.0,
+    "sender": "Alex Doe",
+    "receiver": "Momo Balance",
+    "transaction_id": "81660358206",
+    "raw_message": "You have received 20000 RWF from Alex Doe (250795963036) on your mobile money account at 2024-10-25 05:48:00. Message from sender: . Your new balance:21032 RWF. Financial Transaction Id: 81660358206."
+  },
+  {
+    "datetime": "2024-10-25T23:10:51",
+    "amount": 4000.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "11060379377",
+    "raw_message": "You have received 4000 RWF from Robert Brown (*********711) on your mobile money account at 2024-10-25 23:10:51. Message from sender: . Your new balance:22932 RWF. Financial Transaction Id: 11060379377."
+  },
+  {
+    "datetime": "2024-10-26T21:52:01",
+    "amount": 50000.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "93824792341",
+    "raw_message": "You have received 50000 RWF from Samuel Carter (250795963036) on your mobile money account at 2024-10-26 21:52:01. Message from sender: . Your new balance:50932 RWF. Financial Transaction Id: 93824792341."
+  },
+  {
+    "datetime": "2024-11-05T21:55:02",
+    "amount": 10000.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "74467206314",
+    "raw_message": "You have received 10000 RWF from Robert Brown (250795963036) on your mobile money account at 2024-11-05 21:55:02. Message from sender: . Your new balance:10212 RWF. Financial Transaction Id: 74467206314."
+  },
+  {
+    "datetime": "2024-11-06T12:54:32",
+    "amount": 133855.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "26843508772",
+    "raw_message": "You have received 133855 RWF from Samuel Carter (*********683) on your mobile money account at 2024-11-06 12:54:32. Message from sender: . Your new balance:142667 RWF. Financial Transaction Id: 26843508772."
+  },
+  {
+    "datetime": "2024-11-09T20:11:51",
+    "amount": 66305.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "97375149913",
+    "raw_message": "You have received 66305 RWF from Robert Brown (*********683) on your mobile money account at 2024-11-09 20:11:51. Message from sender: . Your new balance:68842 RWF. Financial Transaction Id: 97375149913."
+  },
+  {
+    "datetime": "2024-11-10T01:03:33",
+    "amount": 27800.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "67973089801",
+    "raw_message": "You have received 27800 RWF from Linda Green (*********711) on your mobile money account at 2024-11-10 01:03:33. Message from sender: . Your new balance:78622 RWF. Financial Transaction Id: 67973089801."
+  },
+  {
+    "datetime": "2024-11-13T23:03:44",
+    "amount": 134160.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "91027288469",
+    "raw_message": "You have received 134160 RWF from Robert Brown (*********683) on your mobile money account at 2024-11-13 23:03:44. Message from sender: . Your new balance:136682 RWF. Financial Transaction Id: 91027288469."
+  },
+  {
+    "datetime": "2024-11-14T19:56:45",
+    "amount": 201940.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "60464892197",
+    "raw_message": "You have received 201940 RWF from Samuel Carter (*********683) on your mobile money account at 2024-11-14 19:56:45. Message from sender: . Your new balance:209372 RWF. Financial Transaction Id: 60464892197."
+  },
+  {
+    "datetime": "2024-11-17T13:12:05",
+    "amount": 134346.0,
+    "sender": "Jane Smith",
+    "receiver": "Momo Balance",
+    "transaction_id": "35179537922",
+    "raw_message": "You have received 134346 RWF from Jane Smith (*********683) on your mobile money account at 2024-11-17 13:12:05. Message from sender: . Your new balance:135748 RWF. Financial Transaction Id: 35179537922."
+  },
+  {
+    "datetime": "2024-11-18T17:39:07",
+    "amount": 134438.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "81939407545",
+    "raw_message": "You have received 134438 RWF from Samuel Carter (*********683) on your mobile money account at 2024-11-18 17:39:07. Message from sender: . Your new balance:153736 RWF. Financial Transaction Id: 81939407545."
+  },
+  {
+    "datetime": "2024-11-21T11:36:54",
+    "amount": 134901.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "55787996640",
+    "raw_message": "You have received 134901 RWF from Robert Brown (*********683) on your mobile money account at 2024-11-21 11:36:54. Message from sender: . Your new balance:138437 RWF. Financial Transaction Id: 55787996640."
+  },
+  {
+    "datetime": "2024-11-21T20:55:54",
+    "amount": 134468.0,
+    "sender": "Alex Doe",
+    "receiver": "Momo Balance",
+    "transaction_id": "71572076549",
+    "raw_message": "You have received 134468 RWF from Alex Doe (*********683) on your mobile money account at 2024-11-21 20:55:54. Message from sender: . Your new balance:135435 RWF. Financial Transaction Id: 71572076549."
+  },
+  {
+    "datetime": "2024-11-22T13:58:23",
+    "amount": 1200.0,
+    "sender": "Alex Doe",
+    "receiver": "Momo Balance",
+    "transaction_id": "34697085121",
+    "raw_message": "You have received 1200 RWF from Alex Doe (*********711) on your mobile money account at 2024-11-22 13:58:23. Message from sender: . Your new balance:10285 RWF. Financial Transaction Id: 34697085121."
+  },
+  {
+    "datetime": "2024-11-23T13:40:59",
+    "amount": 134591.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "52261254503",
+    "raw_message": "You have received 134591 RWF from Robert Brown (*********683) on your mobile money account at 2024-11-23 13:40:59. Message from sender: . Your new balance:136992 RWF. Financial Transaction Id: 52261254503."
+  },
+  {
+    "datetime": "2024-11-27T08:18:01",
+    "amount": 10000.0,
+    "sender": "Jane Smith",
+    "receiver": "Momo Balance",
+    "transaction_id": "38740551775",
+    "raw_message": "You have received 10000 RWF from Jane Smith (*********223) on your mobile money account at 2024-11-27 08:18:01. Message from sender: . Your new balance:70052 RWF. Financial Transaction Id: 38740551775."
+  },
+  {
+    "datetime": "2024-11-29T23:15:19",
+    "amount": 11000.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "55628760506",
+    "raw_message": "You have received 11000 RWF from Robert Brown (*********013) on your mobile money account at 2024-11-29 23:15:19. Message from sender: . Your new balance:19012 RWF. Financial Transaction Id: 55628760506."
+  },
+  {
+    "datetime": "2024-11-30T19:46:14",
+    "amount": 271202.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "36071803053",
+    "raw_message": "You have received 271202 RWF from Linda Green (*********683) on your mobile money account at 2024-11-30 19:46:14. Message from sender: . Your new balance:320244 RWF. Financial Transaction Id: 36071803053."
+  },
+  {
+    "datetime": "2024-12-13T19:00:25",
+    "amount": 135179.0,
+    "sender": "Jane Smith",
+    "receiver": "Momo Balance",
+    "transaction_id": "64379934012",
+    "raw_message": "You have received 135179 RWF from Jane Smith (*********683) on your mobile money account at 2024-12-13 19:00:25. Message from sender: . Your new balance:174871 RWF. Financial Transaction Id: 64379934012."
+  },
+  {
+    "datetime": "2024-12-14T23:18:23",
+    "amount": 135140.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "96265284937",
+    "raw_message": "You have received 135140 RWF from Linda Green (*********683) on your mobile money account at 2024-12-14 23:18:23. Message from sender: . Your new balance:135291 RWF. Financial Transaction Id: 96265284937."
+  },
+  {
+    "datetime": "2024-12-15T16:02:32",
+    "amount": 8000.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "56170688559",
+    "raw_message": "You have received 8000 RWF from Samuel Carter (*********613) on your mobile money account at 2024-12-15 16:02:32. Message from sender: . Your new balance:63991 RWF. Financial Transaction Id: 56170688559."
+  },
+  {
+    "datetime": "2024-12-15T16:04:07",
+    "amount": 21800.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "25634019489",
+    "raw_message": "You have received 21800 RWF from Samuel Carter (*********711) on your mobile money account at 2024-12-15 16:04:07. Message from sender: . Your new balance:54791 RWF. Financial Transaction Id: 25634019489."
+  },
+  {
+    "datetime": "2024-12-17T08:18:54",
+    "amount": 135121.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "31316222684",
+    "raw_message": "You have received 135121 RWF from Linda Green (*********683) on your mobile money account at 2024-12-17 08:18:54. Message from sender: . Your new balance:135692 RWF. Financial Transaction Id: 31316222684."
+  },
+  {
+    "datetime": "2024-12-23T21:48:36",
+    "amount": 27000.0,
+    "sender": "Alex Doe",
+    "receiver": "Momo Balance",
+    "transaction_id": "97521447595",
+    "raw_message": "You have received 27000 RWF from Alex Doe (*********090) on your mobile money account at 2024-12-23 21:48:36. Message from sender: . Your new balance:42532 RWF. Financial Transaction Id: 97521447595."
+  },
+  {
+    "datetime": "2024-12-24T22:58:37",
+    "amount": 135852.0,
+    "sender": "Samuel Carter",
+    "receiver": "Momo Balance",
+    "transaction_id": "38286062599",
+    "raw_message": "You have received 135852 RWF from Samuel Carter (*********683) on your mobile money account at 2024-12-24 22:58:37. Message from sender: . Your new balance:154134 RWF. Financial Transaction Id: 38286062599."
+  },
+  {
+    "datetime": "2024-12-26T00:01:03",
+    "amount": 10000.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "19512741503",
+    "raw_message": "You have received 10000 RWF from Robert Brown (*********711) on your mobile money account at 2024-12-26 00:01:03. Message from sender: . Your new balance:132834 RWF. Financial Transaction Id: 19512741503."
+  },
+  {
+    "datetime": "2024-12-30T13:21:50",
+    "amount": 343285.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "60612987867",
+    "raw_message": "You have received 343285 RWF from Linda Green (*********683) on your mobile money account at 2024-12-30 13:21:50. Message from sender: . Your new balance:360379 RWF. Financial Transaction Id: 60612987867."
+  },
+  {
+    "datetime": "2024-12-31T13:42:07",
+    "amount": 135983.0,
+    "sender": "Jane Smith",
+    "receiver": "Momo Balance",
+    "transaction_id": "42280278088",
+    "raw_message": "You have received 135983 RWF from Jane Smith (*********683) on your mobile money account at 2024-12-31 13:42:07. Message from sender: . Your new balance:164962 RWF. Financial Transaction Id: 42280278088."
+  },
+  {
+    "datetime": "2024-12-31T20:08:55",
+    "amount": 500.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "11336164483",
+    "raw_message": "You have received 500 RWF from Robert Brown (*********711) on your mobile money account at 2024-12-31 20:08:55. Message from sender: . Your new balance:97112 RWF. Financial Transaction Id: 11336164483."
+  },
+  {
+    "datetime": "2025-01-02T14:00:02",
+    "amount": 343136.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "66251081197",
+    "raw_message": "You have received 343136 RWF from Robert Brown (*********683) on your mobile money account at 2025-01-02 14:00:02. Message from sender: . Your new balance:376348 RWF. Financial Transaction Id: 66251081197."
+  },
+  {
+    "datetime": "2025-01-05T16:47:28",
+    "amount": 136135.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "31288108568",
+    "raw_message": "You have received 136135 RWF from Linda Green (*********683) on your mobile money account at 2025-01-05 16:47:28. Message from sender: . Your new balance:143087 RWF. Financial Transaction Id: 31288108568."
+  },
+  {
+    "datetime": "2025-01-06T20:12:59",
+    "amount": 74312.0,
+    "sender": "Linda Green",
+    "receiver": "Momo Balance",
+    "transaction_id": "30614825696",
+    "raw_message": "You have received 74312 RWF from Linda Green (*********683) on your mobile money account at 2025-01-06 20:12:59. Message from sender: . Your new balance:103549 RWF. Financial Transaction Id: 30614825696."
+  },
+  {
+    "datetime": "2025-01-09T19:59:47",
+    "amount": 136044.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "29067172393",
+    "raw_message": "You have received 136044 RWF from Robert Brown (*********683) on your mobile money account at 2025-01-09 19:59:47. Message from sender: . Your new balance:148243 RWF. Financial Transaction Id: 29067172393."
+  },
+  {
+    "datetime": "2025-01-10T21:40:23",
+    "amount": 8000.0,
+    "sender": "Robert Brown",
+    "receiver": "Momo Balance",
+    "transaction_id": "81626212197",
+    "raw_message": "You have received 8000 RWF from Robert Brown (*********711) on your mobile money account at 2025-01-10 21:40:23. Message from sender: . Your new balance:56393 RWF. Financial Transaction Id: 81626212197."
+  },
+  {
+    "datetime": "2025-01-13T14:40:42",
+    "amount": 964177.0,
+    "sender": "Jane Smith",
+    "receiver": "Momo Balance",
+    "transaction_id": "88289015616",
+    "raw_message": "You have received 964177 RWF from Jane Smith (*********683) on your mobile money account at 2025-01-13 14:40:42. Message from sender: . Your new balance:986950 RWF. Financial Transaction Id: 88289015616."
+  }
+]

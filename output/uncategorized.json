@@ -1,0 +1,82 @@
+[
+  {
+    "datetime": "2025-02-04T23:24:19.812381",
+    "amount": 0.0,
+    "sender": null,
+    "receiver": null,
+    "transaction_id": null,
+    "raw_message": "<#> Dear Customer, your MTN MoMo application one-time password is :2476.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>."
+  },
+  {
+    "datetime": "2025-02-04T23:24:19.812638",
+    "amount": 0.0,
+    "sender": null,
+    "receiver": null,
+    "transaction_id": null,
+    "raw_message": "<#> Dear Customer, your MTN MoMo application one-time password is :2527.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>."
+  },
+  {
+    "datetime": "2025-02-04T23:24:19.812886",
+    "amount": 0.0,
+    "sender": null,
+    "receiver": null,
+    "transaction_id": null,
+    "raw_message": "<#> Dear Customer, your MTN MoMo application one-time password is :2900.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>."
+  },
+  {
+    "datetime": "2025-02-04T23:24:19.813631",
+    "amount": 0.0,
+    "sender": null,
+    "receiver": null,
+    "transaction_id": null,
+    "raw_message": "<#> Dear Customer, your MTN MoMo application one-time password is :9591.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>."
+  },
+  {
+    "datetime": "2025-02-04T23:24:19.814176",
+    "amount": 0.0,
+    "sender": null,
+    "receiver": null,
+    "transaction_id": null,
+    "raw_message": "<#> Dear Customer, your MTN MoMo application one-time password is :4666.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>."
+  },
+  {
+    "datetime": "2025-02-04T23:24:19.815035",
+    "amount": 0.0,
+    "sender": null,
+    "receiver": null,
+    "transaction_id": null,
+    "raw_message": "<#> Dear Customer, your MTN MoMo application one-time password is :0086.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>."
+  },
+  {
+    "datetime": "2025-02-04T23:24:19.848319",
+    "amount": 3000.0,
+    "sender": null,
+    "receiver": null,
+    "transaction_id": null,
+    "raw_message": "A reversal has been initiated for your transaction to Mediatrice UWAYISENGA (250788658286) with 3000 RWF."
+  },
+  {
+    "datetime": "2025-02-04T23:24:19.861566",
+    "amount": 0.0,
+    "sender": null,
+    "receiver": null,
+    "transaction_id": null,
+    "raw_message": "<#> Dear Customer, your MTN MoMo application one-time password is :2632.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>."
+  },
+  {
+    "datetime": "2025-02-04T23:24:19.861815",
+    "amount": 0.0,
+    "sender": null,
+    "receiver": null,
+    "transaction_id": null,
+    "raw_message": "<#> Dear Customer, your MTN MoMo application one-time password is :1827.MTN MoMo does not recommend that you share or expose your one-time password with anyone. Be Vigilant. RdbS6eMOXvx N/RywfrtIZL>."
+  },
+  {
+    "datetime": "2025-02-04T23:24:19.861856",
+    "amount": 0.0,
+    "sender": null,
+    "receiver": null,
+    "transaction_id": null,
+    "raw_message": "1) 2024-08-23 DEPOSIT RWF 25000 Receiver: 250795963036 Sender:  Fee: RWF"
+  }
+]

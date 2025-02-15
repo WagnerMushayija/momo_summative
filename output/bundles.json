@@ -1,0 +1,466 @@
+[
+  {
+    "datetime": "2025-02-06T15:31:22.735169",
+    "amount": 2000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 2000Rwf(1GB)/30days igura 2,000 RWF"
+  },
+  {
+    "datetime": "2024-06-11T06:26:11",
+    "amount": 2000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "14324965479",
+    "raw_message": "*162*TxId:14324965479*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-06-11 06:26:11. Fee was 0 RWF. Your new balance: 350 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.773128",
+    "amount": 2000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 2,000FRW(2GB) igura 2,000 RWF"
+  },
+  {
+    "datetime": "2024-06-19T18:15:53",
+    "amount": 2000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "14443130677",
+    "raw_message": "*162*TxId:14443130677*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-06-19 18:15:53. Fee was 0 RWF. Your new balance: 3810 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2024-06-28T18:00:22",
+    "amount": 2000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "14569120894",
+    "raw_message": "*162*TxId:14569120894*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-06-28 18:00:22. Fee was 0 RWF. Your new balance: 30170 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.805962",
+    "amount": 2000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 2,000FRW(2GB) igura 2,000 RWF"
+  },
+  {
+    "datetime": "2024-07-04T14:02:53",
+    "amount": 500.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "14655104674",
+    "raw_message": "*162*TxId:14655104674*S*Your payment of 500 RWF to Bundles and Packs with token  has been completed at 2024-07-04 14:02:53. Fee was 0 RWF. Your new balance: 220 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.834761",
+    "amount": 500.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 500FRW(800MB) igura 500 RWF"
+  },
+  {
+    "datetime": "2024-07-11T09:25:46",
+    "amount": 500.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "14756781450",
+    "raw_message": "*162*TxId:14756781450*S*Your payment of 500 RWF to Bundles and Packs with token  has been completed at 2024-07-11 09:25:46. Fee was 0 RWF. Your new balance: 340 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.850794",
+    "amount": 500.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 500FRW(800MB) igura 500 RWF"
+  },
+  {
+    "datetime": "2024-07-14T15:19:17",
+    "amount": 2000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "14807754878",
+    "raw_message": "*164*S*Y'ello,A transaction of 2000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-07-14 15:19:17. Message from debit receiver: . Your new balance:27570 RWF. Fee was 0 RWF. Financial Transaction Id: 14807754878. External Transaction Id: 17209629782498301.*EN#"
+  },
+  {
+    "datetime": "2024-07-21T18:19:26",
+    "amount": 200.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "14909215103",
+    "raw_message": "*162*TxId:14909215103*S*Your payment of 200 RWF to Bundles and Packs with token  has been completed at 2024-07-21 18:19:26. Fee was 0 RWF. Your new balance: 60 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.873898",
+    "amount": 200.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 200Rwf(50MB) igura 200 RWF"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.878280",
+    "amount": 500.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 500FRW(800MB) igura 500 RWF"
+  },
+  {
+    "datetime": "2024-07-23T21:22:15",
+    "amount": 500.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "14940294542",
+    "raw_message": "*162*TxId:14940294542*S*Your payment of 500 RWF to Bundles and Packs with token  has been completed at 2024-07-23 21:22:15. Fee was 0 RWF. Your new balance: 40 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.885672",
+    "amount": 2000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 2000Rwf(1.5GB) igura 2,000 RWF"
+  },
+  {
+    "datetime": "2024-07-26T00:10:38",
+    "amount": 2000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "14969968017",
+    "raw_message": "*162*TxId:14969968017*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-07-26 00:10:38. Fee was 0 RWF. Your new balance: 2000 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2024-08-01T13:22:02",
+    "amount": 3000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "15064161618",
+    "raw_message": "*162*TxId:15064161618*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2024-08-01 13:22:02. Fee was 0 RWF. Your new balance: 24960 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.906067",
+    "amount": 3000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.906818",
+    "amount": 500.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 500FRW(800MB) igura 500 RWF"
+  },
+  {
+    "datetime": "2024-08-01T19:03:14",
+    "amount": 500.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "15070248766",
+    "raw_message": "*162*TxId:15070248766*S*Your payment of 500 RWF to Bundles and Packs with token  has been completed at 2024-08-01 19:03:14. Fee was 0 RWF. Your new balance: 210 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2024-08-03T16:42:06",
+    "amount": 1000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "15097735991",
+    "raw_message": "*162*TxId:15097735991*S*Your payment of 1000 RWF to Bundles and Packs with token  has been completed at 2024-08-03 16:42:06. Fee was 0 RWF. Your new balance: 4940 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.912529",
+    "amount": 1000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 1000Rwf(1GB) igura 1,000 RWF"
+  },
+  {
+    "datetime": "2024-08-05T17:15:24",
+    "amount": 200.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "15126906031",
+    "raw_message": "*162*TxId:15126906031*S*Your payment of 200 RWF to Bundles and Packs with token  has been completed at 2024-08-05 17:15:24. Fee was 0 RWF. Your new balance: 90 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.917238",
+    "amount": 200.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 200Rwf(50MB) igura 200 RWF"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.918696",
+    "amount": 1000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 1,000FRW(2200MB) igura 1,000 RWF"
+  },
+  {
+    "datetime": "2024-08-06T20:22:06",
+    "amount": 1000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "15146128209",
+    "raw_message": "*162*TxId:15146128209*S*Your payment of 1000 RWF to Bundles and Packs with token  has been completed at 2024-08-06 20:22:06. Fee was 0 RWF. Your new balance: 290 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2024-08-08T21:19:16",
+    "amount": 1000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "15178525743",
+    "raw_message": "*162*TxId:15178525743*S*Your payment of 1000 RWF to Bundles and Packs with token  has been completed at 2024-08-08 21:19:16. Fee was 0 RWF. Your new balance: 5170 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.926000",
+    "amount": 1000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 1,000FRW(2200MB) igura 1,000 RWF"
+  },
+  {
+    "datetime": "2024-08-29T09:30:34",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "15475262766",
+    "raw_message": "*162*TxId:15475262766*S*Your payment of 5000 RWF to Bundles and Packs with token  has been completed at 2024-08-29 09:30:34. Fee was 0 RWF. Your new balance: 6260 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.941235",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 5,000FRW(7GB) igura 5,000 RWF"
+  },
+  {
+    "datetime": "2024-09-06T16:37:52",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "15606505500",
+    "raw_message": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-09-06 16:37:52. Message from debit receiver: . Your new balance:890 RWF. Fee was 0 RWF. Financial Transaction Id: 15606505500. External Transaction Id: 17256333763041376.*EN#"
+  },
+  {
+    "datetime": "2024-09-11T15:43:54",
+    "amount": 3000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "15681666953",
+    "raw_message": "*162*TxId:15681666953*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2024-09-11 15:43:54. Fee was 0 RWF. Your new balance: 11330 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.974188",
+    "amount": 3000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF"
+  },
+  {
+    "datetime": "2024-09-18T14:17:11",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "15783543056",
+    "raw_message": "*162*TxId:15783543056*S*Your payment of 5000 RWF to Bundles and Packs with token  has been completed at 2024-09-18 14:17:11. Fee was 0 RWF. Your new balance: 12850 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:22.989464",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 5,000FRW(7GB) igura 5,000 RWF"
+  },
+  {
+    "datetime": "2024-09-28T13:16:02",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "15930732191",
+    "raw_message": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-09-28 13:16:02. Message from debit receiver: . Your new balance:11310 RWF. Fee was 0 RWF. Financial Transaction Id: 15930732191. External Transaction Id: 17275220792115073.*EN#"
+  },
+  {
+    "datetime": "2024-10-04T08:27:12",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "16040688508",
+    "raw_message": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-10-04 08:27:12. Message from debit receiver: . Your new balance:3512 RWF. Fee was 0 RWF. Financial Transaction Id: 16040688508. External Transaction Id: 17280230723010910.*EN#"
+  },
+  {
+    "datetime": "2024-10-11T16:39:11",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "16181431637",
+    "raw_message": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-10-11 16:39:11. Message from debit receiver: . Your new balance:24655 RWF. Fee was 0 RWF. Financial Transaction Id: 16181431637. External Transaction Id: 17286575112418450.*EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:23.052289",
+    "amount": 3000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF"
+  },
+  {
+    "datetime": "2024-10-13T09:37:49",
+    "amount": 3000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "16211799078",
+    "raw_message": "*162*TxId:16211799078*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2024-10-13 09:37:49. Fee was 0 RWF. Your new balance: 25605 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2024-10-16T10:48:32",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "16269196928",
+    "raw_message": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-10-16 10:48:32. Message from debit receiver: . Your new balance:128151 RWF. Fee was 0 RWF. Financial Transaction Id: 16269196928. External Transaction Id: 17290684883032395.*EN#"
+  },
+  {
+    "datetime": "2024-10-20T21:07:16",
+    "amount": 10000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "16356106165",
+    "raw_message": "*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-10-20 21:07:16. Message from debit receiver: . Your new balance:122472 RWF. Fee was 0 RWF. Financial Transaction Id: 16356106165. External Transaction Id: 17294511812484189.*EN#"
+  },
+  {
+    "datetime": "2024-11-06T22:27:32",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "16684572153",
+    "raw_message": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-11-06 22:27:32. Message from debit receiver: . Your new balance:41167 RWF. Fee was 0 RWF. Financial Transaction Id: 16684572153. External Transaction Id: 17309248153046681.*EN#"
+  },
+  {
+    "datetime": "2024-11-13T13:13:44",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "16811450681",
+    "raw_message": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-11-13 13:13:44. Message from debit receiver: . Your new balance:7022 RWF. Fee was 0 RWF. Financial Transaction Id: 16811450681. External Transaction Id: 17314963852425107.*EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:23.121142",
+    "amount": 2000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 2000Frw=1000Mins+50SMS igura 2,000 RWF"
+  },
+  {
+    "datetime": "2024-11-13T14:44:42",
+    "amount": 2000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "16813007600",
+    "raw_message": "*162*TxId:16813007600*S*Your payment of 2000 RWF to Bundles and Packs with token  has been completed at 2024-11-13 14:44:42. Fee was 0 RWF. Your new balance: 5022 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2024-11-16T13:14:55",
+    "amount": 10000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "16870426837",
+    "raw_message": "*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-11-16 13:14:55. Message from debit receiver: . Your new balance:10202 RWF. Fee was 0 RWF. Financial Transaction Id: 16870426837. External Transaction Id: 17317556402493740.*EN#"
+  },
+  {
+    "datetime": "2024-11-30T12:48:40",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "17146971568",
+    "raw_message": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-11-30 12:48:40. Message from debit receiver: . Your new balance:12012 RWF. Fee was 0 RWF. Financial Transaction Id: 17146971568. External Transaction Id: 17329636532769188.*EN#"
+  },
+  {
+    "datetime": "2024-12-02T18:12:28",
+    "amount": 10000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "17194680435",
+    "raw_message": "*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-12-02 18:12:28. Message from debit receiver: . Your new balance:103944 RWF. Fee was 0 RWF. Financial Transaction Id: 17194680435. External Transaction Id: 17331559272498010.*EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:23.193556",
+    "amount": 3000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF"
+  },
+  {
+    "datetime": "2024-12-13T16:30:08",
+    "amount": 3000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "17417124626",
+    "raw_message": "*162*TxId:17417124626*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2024-12-13 16:30:08. Fee was 0 RWF. Your new balance: 51892 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2024-12-16T08:58:31",
+    "amount": 10000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "17469774285",
+    "raw_message": "*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-12-16 08:58:31. Message from debit receiver: . Your new balance:10191 RWF. Fee was 0 RWF. Financial Transaction Id: 17469774285. External Transaction Id: 17343322613083864.*EN#"
+  },
+  {
+    "datetime": "2024-12-28T08:02:55",
+    "amount": 10000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "17725876735",
+    "raw_message": "*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2024-12-28 08:02:55. Message from debit receiver: . Your new balance:5864 RWF. Fee was 0 RWF. Financial Transaction Id: 17725876735. External Transaction Id: 17353657322483063.*EN#"
+  },
+  {
+    "datetime": "2025-01-12T14:20:37",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "18044804543",
+    "raw_message": "*164*S*Y'ello,A transaction of 5000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2025-01-12 14:20:37. Message from debit receiver: . Your new balance:17873 RWF. Fee was 0 RWF. Financial Transaction Id: 18044804543. External Transaction Id: 17366843252778824.*EN#"
+  },
+  {
+    "datetime": "2025-01-13T14:42:09",
+    "amount": 3000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "18064613724",
+    "raw_message": "*162*TxId:18064613724*S*Your payment of 3000 RWF to Bundles and Packs with token  has been completed at 2025-01-13 14:42:09. Fee was 0 RWF. Your new balance: 983950 RWF . Message: - -. *EN#"
+  },
+  {
+    "datetime": "2025-02-06T15:31:23.244272",
+    "amount": 3000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": null,
+    "raw_message": "Yello!Umaze kugura 3000Frw=2500Mins+100SMS igura 3,000 RWF"
+  },
+  {
+    "datetime": "2025-01-14T17:29:36",
+    "amount": 10000.0,
+    "sender": "Momo Balance",
+    "receiver": "Airtime_Balance",
+    "transaction_id": "18087757600",
+    "raw_message": "*164*S*Y'ello,A transaction of 10000 RWF by Data Bundle MTN on your MOMO account was successfully completed at 2025-01-14 17:29:36. Message from debit receiver: . Your new balance:88000 RWF. Fee was 0 RWF. Financial Transaction Id: 18087757600. External Transaction Id: 17368685383021954.*EN#"
+  }
+]

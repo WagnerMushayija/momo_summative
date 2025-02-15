@@ -1,0 +1,178 @@
+[
+  {
+    "datetime": "2024-05-14T21:01:00",
+    "amount": 25000.0,
+    "sender": "Momo Balance",
+    "receiver": "DIRECT",
+    "transaction_id": "13947831685",
+    "raw_message": "*164*S*Y'ello,A transaction of 25000 RWF by DIRECT PAYMENT LTD  on your MOMO account was successfully completed at 2024-05-14 21:01:00. Message from debit receiver: . Your new balance:4060 RWF. Fee was 0 RWF. Financial Transaction Id: 13947831685. External Transaction Id: 47842929.*EN#"
+  },
+  {
+    "datetime": "2024-06-06T16:19:01",
+    "amount": 600.0,
+    "sender": "Momo Balance",
+    "receiver": "INFORMATION",
+    "transaction_id": "14262449979",
+    "raw_message": "*164*S*Y'ello,A transaction of 600 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-06-06 16:19:01. Message from debit receiver: ITEC Pay. Your new balance:230 RWF. Fee was 0 RWF. Financial Transaction Id: 14262449979. External Transaction Id: c5e8bfeb-33d8-4eb2-8d22-154e5ff5e310.*EN#"
+  },
+  {
+    "datetime": "2024-06-14T07:52:10",
+    "amount": 25000.0,
+    "sender": "Momo Balance",
+    "receiver": "DIRECT",
+    "transaction_id": "14366722236",
+    "raw_message": "*164*S*Y'ello,A transaction of 25000 RWF by DIRECT PAYMENT LTD  on your MOMO account was successfully completed at 2024-06-14 07:52:10. Message from debit receiver: . Your new balance:4750 RWF. Fee was 0 RWF. Financial Transaction Id: 14366722236. External Transaction Id: 48214394.*EN#"
+  },
+  {
+    "datetime": "2024-06-16T19:25:44",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": null,
+    "transaction_id": "14404189056",
+    "raw_message": "*164*S*Y'ello,A transaction of 5000 RWF by Future Dynamic  Innovations ltd on your MOMO account was successfully completed at 2024-06-16 19:25:44. Message from debit receiver: 610. Your new balance:9350 RWF. Fee was 0 RWF. Financial Transaction Id: 14404189056. External Transaction Id: 475e95b8a1d049c2ba9ee675401d9332.*EN#"
+  },
+  {
+    "datetime": "2024-06-29T00:32:19",
+    "amount": 20000.0,
+    "sender": "Momo Balance",
+    "receiver": "INTOUCH",
+    "transaction_id": "14574631016",
+    "raw_message": "*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS  LTD on your MOMO account was successfully completed at 2024-06-29 00:32:19. Message from debit receiver: 250795963036. Your new balance:21670 RWF. Fee was 0 RWF. Financial Transaction Id: 14574631016. External Transaction Id: 169587820240628223202678996.*EN#"
+  },
+  {
+    "datetime": "2024-06-29T16:06:06",
+    "amount": 20000.0,
+    "sender": "Momo Balance",
+    "receiver": "INTOUCH",
+    "transaction_id": "14582579702",
+    "raw_message": "*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS  LTD on your MOMO account was successfully completed at 2024-06-29 16:06:06. Message from debit receiver: 250795963036. Your new balance:45870 RWF. Fee was 0 RWF. Financial Transaction Id: 14582579702. External Transaction Id: 169710420240629140334182447.*EN#"
+  },
+  {
+    "datetime": "2024-07-26T15:16:04",
+    "amount": 673000.0,
+    "sender": "Momo Balance",
+    "receiver": "ONAFRIQ",
+    "transaction_id": "14977177408",
+    "raw_message": "*162*TxId:14977177408*S*Your payment of 673000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-07-26 15:16:04. Fee was 8000 RWF. Your new balance: 4950 RWF . Message: - Transaction has been processed successfully. *EN#"
+  },
+  {
+    "datetime": "2024-07-26T15:24:04",
+    "amount": 45000.0,
+    "sender": "Momo Balance",
+    "receiver": "ONAFRIQ",
+    "transaction_id": "14977293553",
+    "raw_message": "*162*TxId:14977293553*S*Your payment of 45000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-07-26 15:24:04. Fee was 1200 RWF. Your new balance: 8750 RWF . Message: - Transaction has been processed successfully. *EN#"
+  },
+  {
+    "datetime": "2024-07-26T15:30:04",
+    "amount": 50000.0,
+    "sender": "Momo Balance",
+    "receiver": "ONAFRIQ",
+    "transaction_id": "14977386817",
+    "raw_message": "*162*TxId:14977386817*S*Your payment of 50000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-07-26 15:30:04. Fee was 1200 RWF. Your new balance: 7550 RWF . Message: - Transaction has been processed successfully. *EN#"
+  },
+  {
+    "datetime": "2024-08-09T11:44:02",
+    "amount": 2000.0,
+    "sender": "Momo Balance",
+    "receiver": "ONAFRIQ",
+    "transaction_id": "15183763430",
+    "raw_message": "*162*TxId:15183763430*S*Your payment of 2000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-08-09 11:44:02. Fee was 120 RWF. Your new balance: 1050 RWF . Message: - Transaction has been processed successfully. *EN#"
+  },
+  {
+    "datetime": "2024-08-10T18:10:04",
+    "amount": 90000.0,
+    "sender": "Momo Balance",
+    "receiver": "ONAFRIQ",
+    "transaction_id": "15204526240",
+    "raw_message": "*162*TxId:15204526240*S*Your payment of 90000 RWF to ONAFRIQ MAURITIUS with token  has been completed at 2024-08-10 18:10:04. Fee was 2000 RWF. Your new balance: 9050 RWF . Message: - Transaction has been processed successfully. *EN#"
+  },
+  {
+    "datetime": "2024-09-08T01:12:33",
+    "amount": 20000.0,
+    "sender": "Momo Balance",
+    "receiver": "INTOUCH",
+    "transaction_id": "15628862865",
+    "raw_message": "*164*S*Y'ello,A transaction of 20000 RWF by INTOUCH COMMUNICATIONS  LTD on your MOMO account was successfully completed at 2024-09-08 01:12:33. Message from debit receiver: 250795963036. Your new balance:103260 RWF. Fee was 0 RWF. Financial Transaction Id: 15628862865. External Transaction Id: 188160120240907231214390890.*EN#"
+  },
+  {
+    "datetime": "2024-09-24T18:37:52",
+    "amount": 200.0,
+    "sender": "Momo Balance",
+    "receiver": "INFORMATION",
+    "transaction_id": "15874896437",
+    "raw_message": "*164*S*Y'ello,A transaction of 200 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-09-24 18:37:52. Message from debit receiver: ITEC Pay. Your new balance:1180 RWF. Fee was 0 RWF. Financial Transaction Id: 15874896437. External Transaction Id: 68d6367d-f56d-4436-a31f-6f59aeb70ef3.*EN#"
+  },
+  {
+    "datetime": "2024-10-03T17:49:18",
+    "amount": 25000.0,
+    "sender": "Momo Balance",
+    "receiver": "IREMBO",
+    "transaction_id": "16030998575",
+    "raw_message": "*164*S*Y'ello,A transaction of 25000 RWF by IREMBO Ltd on your MOMO account was successfully completed at 2024-10-03 17:49:18. Message from debit receiver: 881003055321. Your new balance:4012 RWF. Fee was 0 RWF. Financial Transaction Id: 16030998575. External Transaction Id: 881003055321.*EN#"
+  },
+  {
+    "datetime": "2024-10-19T11:50:25",
+    "amount": 5000.0,
+    "sender": "Momo Balance",
+    "receiver": "IREMBO",
+    "transaction_id": "16327063889",
+    "raw_message": "*164*S*Y'ello,A transaction of 5000 RWF by IREMBO Ltd on your MOMO account was successfully completed at 2024-10-19 11:50:25. Message from debit receiver: 881019247301. Your new balance:10750 RWF. Fee was 0 RWF. Financial Transaction Id: 16327063889. External Transaction Id: 881019247301.*EN#"
+  },
+  {
+    "datetime": "2024-11-02T00:47:43",
+    "amount": 10000.0,
+    "sender": "Momo Balance",
+    "receiver": "INTOUCH",
+    "transaction_id": "16591010120",
+    "raw_message": "*164*S*Y'ello,A transaction of 10000 RWF by INTOUCH COMMUNICATIONS  LTD on your MOMO account was successfully completed at 2024-11-02 00:47:43. Message from debit receiver: 250795963036. Your new balance:14372 RWF. Fee was 0 RWF. Financial Transaction Id: 16591010120. External Transaction Id: 194832520241101224717179801.*EN#"
+  },
+  {
+    "datetime": "2024-11-30T14:39:06",
+    "amount": 200.0,
+    "sender": "Momo Balance",
+    "receiver": "INFORMATION",
+    "transaction_id": "17149096701",
+    "raw_message": "*164*S*Y'ello,A transaction of 200 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-11-30 14:39:06. Message from debit receiver: ITEC Pay. Your new balance:79492 RWF. Fee was 0 RWF. Financial Transaction Id: 17149096701. External Transaction Id: 65c28253-1297-4c0d-b38b-8edec42fa2e2.*EN#"
+  },
+  {
+    "datetime": "2024-12-02T16:22:35",
+    "amount": 300.0,
+    "sender": "Momo Balance",
+    "receiver": "INFORMATION",
+    "transaction_id": "17192081844",
+    "raw_message": "*164*S*Y'ello,A transaction of 300 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-12-02 16:22:35. Message from debit receiver: ITEC Pay. Your new balance:122044 RWF. Fee was 0 RWF. Financial Transaction Id: 17192081844. External Transaction Id: 96218fc3-5668-401b-bf53-4fd66a9e276f.*EN#"
+  },
+  {
+    "datetime": "2024-12-03T21:17:17",
+    "amount": 400.0,
+    "sender": "Momo Balance",
+    "receiver": "INFORMATION",
+    "transaction_id": "17219848993",
+    "raw_message": "*164*S*Y'ello,A transaction of 400 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-12-03 21:17:17. Message from debit receiver: ITEC Pay. Your new balance:20524 RWF. Fee was 0 RWF. Financial Transaction Id: 17219848993. External Transaction Id: 6ed516b1-6031-4395-9072-b895b96561e7.*EN#"
+  },
+  {
+    "datetime": "2024-12-04T18:17:17",
+    "amount": 300.0,
+    "sender": "Momo Balance",
+    "receiver": "INFORMATION",
+    "transaction_id": "17236283233",
+    "raw_message": "*164*S*Y'ello,A transaction of 300 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-12-04 18:17:17. Message from debit receiver: ITEC Pay. Your new balance:15124 RWF. Fee was 0 RWF. Financial Transaction Id: 17236283233. External Transaction Id: 2eb6d6d7-83ef-43e8-be2c-79af26d8d3b9.*EN#"
+  },
+  {
+    "datetime": "2024-12-06T19:22:45",
+    "amount": 900.0,
+    "sender": "Momo Balance",
+    "receiver": "INFORMATION",
+    "transaction_id": "17278839589",
+    "raw_message": "*164*S*Y'ello,A transaction of 900 RWF by INFORMATION TECHNOLOGY  ENGINEERING CONSTRUCTION   ITEC Ltd on your MOMO account was successfully completed at 2024-12-06 19:22:45. Message from debit receiver: ITEC Pay. Your new balance:9124 RWF. Fee was 0 RWF. Financial Transaction Id: 17278839589. External Transaction Id: 9838017e-bba5-4d1f-b7a9-e57bc604e41d.*EN#"
+  },
+  {
+    "datetime": "2025-01-02T14:03:47",
+    "amount": 322726.0,
+    "sender": "Momo Balance",
+    "receiver": "WASAC",
+    "transaction_id": "17841214930",
+    "raw_message": "*162*TxId:17841214930*S*Your payment of 322726 RWF to WASAC with token 888931 has been completed at 2025-01-02 14:03:47. Fee was 300 RWF. Your new balance: 53322 RWF . Message: - -. *EN#"
+  }
+]

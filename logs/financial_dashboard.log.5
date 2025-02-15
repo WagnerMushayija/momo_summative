@@ -1,0 +1,71 @@
+2025-02-09 22:19:49,537 INFO: Year: 2024, Month: 7, Total Amount: 3697180.00, Count: 227 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,539 INFO: Year: 2024, Month: 8, Total Amount: 1321650.00, Count: 120 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,539 INFO: Year: 2024, Month: 9, Total Amount: 7157650.00, Count: 242 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,539 INFO: Year: 2024, Month: 10, Total Amount: 3336614.00, Count: 192 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,539 INFO: Year: 2024, Month: 11, Total Amount: 6353540.00, Count: 225 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,539 INFO: Year: 2024, Month: 12, Total Amount: 4277082.00, Count: 189 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,539 INFO: Year: 2025, Month: 1, Total Amount: 3757430.00, Count: 76 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,539 INFO: Year: 2025, Month: 2, Total Amount: 40400.00, Count: 21 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,539 ERROR: Error in financial overview: The "whens" argument to case(), when referring to a sequence of items, is now passed as a series of positional elements, rather than as a list.  [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:261]
+2025-02-09 22:19:49,547 ERROR: Traceback (most recent call last):
+  File "/home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py", line 204, in get_financial_overview
+    func.sum(case([(Transaction.amount > 0, Transaction.amount)], else_=0)).label('income'),
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/sql/_elements_constructors.py", line 850, in case
+    return Case(*whens, value=value, else_=else_)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/sql/elements.py", line 3306, in __init__
+    new_whens: Iterable[Any] = coercions._expression_collection_was_a_list(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/sql/coercions.py", line 152, in _expression_collection_was_a_list
+    raise exc.ArgumentError(
+sqlalchemy.exc.ArgumentError: The "whens" argument to case(), when referring to a sequence of items, is now passed as a series of positional elements, rather than as a list. 
+ [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:262]
+2025-02-09 22:19:49,586 INFO: Financial Overview - Total Income: 32893196.00 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:167]
+2025-02-09 22:19:49,586 INFO: Financial Overview - Total Expenses: 0 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:168]
+2025-02-09 22:19:49,589 INFO: Category Summary: [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:183]
+2025-02-09 22:19:49,590 INFO: Category: BANK_DEPOSITS, Total Amount: 11012800.00, Count: 248 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:19:49,590 INFO: Category: MOBILE_TRANSFERS, Total Amount: 9747551.00, Count: 587 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:19:49,590 INFO: Category: INCOMING_MONEY, Total Amount: 5369753.00, Count: 64 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:19:49,590 INFO: Category: CODE_PAYMENTS, Total Amount: 4810766.00, Count: 658 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:19:49,590 INFO: Category: THIRD_PARTY, Total Amount: 1340626.00, Count: 22 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:19:49,590 INFO: Category: BANK_TRANSFERS, Total Amount: 200000.00, Count: 6 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:19:49,590 INFO: Category: BUNDLES, Total Amount: 187800.00, Count: 58 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:19:49,590 INFO: Category: CASHPOWER_PAYMENTS, Total Amount: 129900.00, Count: 17 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:19:49,590 INFO: Category: WITHDRAWALS, Total Amount: 94000.00, Count: 3 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:19:49,592 INFO: Monthly Summary: [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:196]
+2025-02-09 22:19:49,593 INFO: Year: 2024, Month: 5, Total Amount: 538350.00, Count: 96 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,593 INFO: Year: 2024, Month: 6, Total Amount: 2413300.00, Count: 275 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,594 INFO: Year: 2024, Month: 7, Total Amount: 3697180.00, Count: 227 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,596 INFO: Year: 2024, Month: 8, Total Amount: 1321650.00, Count: 120 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,596 INFO: Year: 2024, Month: 9, Total Amount: 7157650.00, Count: 242 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,597 INFO: Year: 2024, Month: 10, Total Amount: 3336614.00, Count: 192 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,597 INFO: Year: 2024, Month: 11, Total Amount: 6353540.00, Count: 225 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,597 INFO: Year: 2024, Month: 12, Total Amount: 4277082.00, Count: 189 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,597 INFO: Year: 2025, Month: 1, Total Amount: 3757430.00, Count: 76 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,598 INFO: Year: 2025, Month: 2, Total Amount: 40400.00, Count: 21 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
+2025-02-09 22:19:49,598 ERROR: Error in financial overview: The "whens" argument to case(), when referring to a sequence of items, is now passed as a series of positional elements, rather than as a list.  [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:261]
+2025-02-09 22:19:49,599 ERROR: Traceback (most recent call last):
+  File "/home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py", line 204, in get_financial_overview
+    func.sum(case([(Transaction.amount > 0, Transaction.amount)], else_=0)).label('income'),
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/sql/_elements_constructors.py", line 850, in case
+    return Case(*whens, value=value, else_=else_)
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/sql/elements.py", line 3306, in __init__
+    new_whens: Iterable[Any] = coercions._expression_collection_was_a_list(
+  File "/usr/local/lib/python3.10/dist-packages/sqlalchemy/sql/coercions.py", line 152, in _expression_collection_was_a_list
+    raise exc.ArgumentError(
+sqlalchemy.exc.ArgumentError: The "whens" argument to case(), when referring to a sequence of items, is now passed as a series of positional elements, rather than as a list. 
+ [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:262]
+2025-02-09 22:20:03,297 INFO: Total Income: 32893196.00 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:27]
+2025-02-09 22:20:03,298 INFO: Total Expenses: 0 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:28]
+2025-02-09 22:20:03,558 INFO: Financial Overview - Total Income: 32893196.00 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:167]
+2025-02-09 22:20:03,558 INFO: Financial Overview - Total Expenses: 0 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:168]
+2025-02-09 22:20:03,567 INFO: Category Summary: [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:183]
+2025-02-09 22:20:03,568 INFO: Category: BANK_DEPOSITS, Total Amount: 11012800.00, Count: 248 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:20:03,568 INFO: Category: MOBILE_TRANSFERS, Total Amount: 9747551.00, Count: 587 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:20:03,569 INFO: Category: INCOMING_MONEY, Total Amount: 5369753.00, Count: 64 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:20:03,569 INFO: Category: CODE_PAYMENTS, Total Amount: 4810766.00, Count: 658 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:20:03,570 INFO: Category: THIRD_PARTY, Total Amount: 1340626.00, Count: 22 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:20:03,571 INFO: Category: BANK_TRANSFERS, Total Amount: 200000.00, Count: 6 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:20:03,571 INFO: Category: BUNDLES, Total Amount: 187800.00, Count: 58 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:20:03,571 INFO: Category: CASHPOWER_PAYMENTS, Total Amount: 129900.00, Count: 17 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:20:03,571 INFO: Category: WITHDRAWALS, Total Amount: 94000.00, Count: 3 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:185]
+2025-02-09 22:20:03,575 INFO: Monthly Summary: [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:196]
+2025-02-09 22:20:03,576 INFO: Year: 2024, Month: 5, Total Amount: 538350.00, Count: 96 [in /home/kelvin/alu/ALU_SUMMATIVES/FINSIGHT/Momo_Analysis/app/route.py:198]
