@@ -1,6 +1,8 @@
 # Fullstack SMS Data Processing Application
 
 ## Assignment Overview
+Link of Documentation: https://docs.google.com/document/d/1OIiR0svpy-G2sJJPAVVkAeajqZ-YxUvTDdSxpzBjaz8/edit?usp=sharing
+
 This project involves designing and developing an enterprise-level fullstack application to process SMS data in XML format. The application will clean and categorize the data, store it in a relational database, and provide a frontend interface for analysis and visualization.
 
 The dataset consists of approximately 1600 SMS messages from MTN MoMo, a Mobile Payment Service Provider in Rwanda. The goal is to extract meaningful insights from these messages and present them in an interactive dashboard.
